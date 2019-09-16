@@ -1,0 +1,6 @@
+framework module Pods_RealAppWKM_tvOSTests {
+  umbrella header "Pods-RealAppWKM-tvOSTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_RealAppWKMTests {
+  umbrella header "Pods-RealAppWKMTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

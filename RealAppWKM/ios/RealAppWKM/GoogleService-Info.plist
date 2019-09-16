@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>377234939500-bea9c5sovr8b5poqi471f2i1s22u3dhl.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.377234939500-bea9c5sovr8b5poqi471f2i1s22u3dhl</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDqlgP9SJSrR83fuehoL51oMd9YRPbJI-8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>377234939500</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.RealAppWKM</string>
+	<key>PROJECT_ID</key>
+	<string>realappwkm</string>
+	<key>STORAGE_BUCKET</key>
+	<string>realappwkm.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:377234939500:ios:8212c3f2fc453646</string>
+	<key>DATABASE_URL</key>
+	<string>https://realappwkm.firebaseio.com</string>
+</dict>
+</plist>
